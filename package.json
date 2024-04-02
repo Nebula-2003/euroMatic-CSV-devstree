@@ -1,0 +1,16 @@
+{
+    "name": "csv-import-apex-mechanic",
+    "version": "1.0.0",
+    "description": "Collection Of CSVs scripts for importing data into Apex Mechanic",
+    "main": "index.js",
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "csv-parser": "^3.0.0",
+        "dotenv": "^16.4.5",
+        "lodash": "^4.17.21",
+        "mongoose": "^8.2.3",
+        "mongoosejs-soft-delete": "^1.0.2"
+    }
+}
